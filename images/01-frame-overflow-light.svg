@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12 -12 744 224" role="img" aria-label="When the main loop finishes before the next NMI, each frame is new. When it runs past the NMI, that NMI finds the game unfinished, skips the screen update, and the frame is lost." width="744" height="224">
+          <rect x="-12.0" y="-12.0" width="744.0" height="224.0" rx="8" fill="#fbfcfd" stroke="#cfd6de" /><g transform="translate(0,0)"><line x1="70" y1="30" x2="70" y2="160" stroke="#cfd6de" stroke-width="1" />
+          <line x1="350" y1="30" x2="350" y2="160" stroke="#cfd6de" stroke-width="1" />
+          <line x1="630" y1="30" x2="630" y2="160" stroke="#cfd6de" stroke-width="1" />
+          <text x="70" y="22" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#687584">NMI</text>
+          <text x="350" y="22" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#687584">NMI</text>
+          <text x="630" y="22" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#687584">NMI</text>
+          <text x="58" y="66" text-anchor="end" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#142231" font-weight="600">Fits</text>
+          <rect x="70" y="50" width="45.6" height="24" fill="#2a78d6" />
+          <rect x="117.6" y="50" width="196" height="24" fill="#44515f" fill-opacity="0.32" />
+          <text x="215.6" y="66" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#142231">main loop</text>
+          <text x="332" y="66" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#687584">wait</text>
+          <rect x="350" y="50" width="45.6" height="24" fill="#2a78d6" />
+          <rect x="397.6" y="50" width="196" height="24" fill="#44515f" fill-opacity="0.32" />
+          <text x="495.6" y="66" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#142231">main loop</text>
+          <text x="612" y="66" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#687584">wait</text>
+          <text x="58" y="136" text-anchor="end" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#142231" font-weight="600">Runs over</text>
+          <rect x="70" y="120" width="45.6" height="24" fill="#2a78d6" />
+          <rect x="117.6" y="120" width="230.4" height="24" fill="#44515f" fill-opacity="0.32" />
+          <text x="233" y="136" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#142231">main loop</text>
+          <rect x="350" y="120" width="34" height="24" fill="#b2441e" />
+          <text x="367" y="112" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#b2441e" font-weight="600">lag frame</text>
+          <rect x="386" y="120" width="34" height="24" fill="#44515f" fill-opacity="0.32" />
+          <text x="403" y="160" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#687584">finishes</text>
+          <text x="525" y="136" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#687584">wait</text>
+          <rect x="70" y="178" width="10" height="10" fill="#2a78d6" />
+          <text x="86" y="187" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">NMI handler</text>
+          <rect x="170" y="178" width="10" height="10" fill="#44515f" fill-opacity="0.32" />
+          <text x="186" y="187" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">game logic</text>
+          <rect x="266" y="178" width="10" height="10" fill="#b2441e" />
+          <text x="282" y="187" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">NMI on a lag frame: sprites and music only</text>
+        </g></svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12 -12 664 360" role="img" aria-label="A close-up of Samus with eight 8 by 8 pixel sprite boxes outlined. Beside it, the frame data lists eight tile numbers, and the placement table lists a y and x offset for each." width="664" height="360">
+          <rect x="-12.0" y="-12.0" width="664.0" height="360.0" rx="8" fill="#141c25" stroke="#2a3643" /><g transform="translate(0,0)"><image x="0" y="0" width="256" height="320" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAFACAMAAABk9FI4AAAAwFBMVEVmZmYAKogUEqc7AKRcAH5uAEBsBgBWHQAzNQALSAAAUgAATwgAQE0AAAAAAAAAAACtra0VX9lCQP91J/6gGsy3Hnu1MSCZTgBrbQA4hwAMkwAAjzIAfI0AAAAAAAAAAAD//v9ksP+SkP/Gdv/zav/+bsz+gXDqniK8vgCI2ABc5DBF4IJIzd5PT08AAAAAAAD//v/A3//T0v/oyP/7wv/+xOr+zMX32KXk5ZTP75a99Kuz88y16/K4uLgAAAAAAAA8C+QNAAACrElEQVR42u3dsZLCIBQFUAv7bKMz223n///hNtK8GQYSIGI4t1NjxnuqNyB62xbPDQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwbR6Z1F4XrwcAAAAAAAAAfE/xeyHxfaXrAAAAAAAAAADj8sykFeDRKQAAAAAAAACA8YVLqb1/BLg3BgAAAAAAAADQr/jrndEQvQYjAAAAAAAAAMD44r/v5J5P7y8VLgHUDkDdNkYAAAAAAAAAANWJEOk+JYhS4drBCAAAAAAAAAAwDiD3em4QigApvQBiYQAAAAAAAABA//MCcWEkpjQ4RYhWgNIXLAAAAAAAAAAA7QCvxkSI9HwcjPYC5NL9BxQAAAAAAACABQH2Fo0bH7XXR4AcyNEeAAAAAAAAAIB+Cx+9i8d8/OAkAAAAAAAAAOB5tHjtBkrcKOk1+Jw2CAEAAAAAAAAXBGhdEOn1gwm5g5CnHZwEAAAAAAAAFgboBbF9OAAAAAAAAACA9uyF2CYJAAAAAAAAAOA8gG2yAAAAAAAAAADGA2yTBgAAAAAAAACw3gAEAAAAAAAAABgPsE0eAAAAAAAAAAAAAAAAAAAAAEB/iFkORgAAAAAAAAAAAAAAAAAAAAAAzgNYfkEEAAAAAAAAuCBA7g+U4wB02UEIAAAAAAAAWAigVPjygxAAAAAAAACwIEAsXPsHituXBAAAAAAAAABQD3CV4gAAAAAAAACA+gWR0hchZ98AAQAAAAAAAAAcH4SuVhwAAAAAAAAAsH9BJLdRAgAAAAAAAABYByAVX2ZBBAAAAAAAAFgQIOXvQwEAAAAAAAAAfB7g5530wW4hRwvm7pMeAwAAAAAAAADmAYgQvRNBAAAAAAAAAADzAKQP1hsiFgYAAAAAAAAAzA/QCpEbfAAAAAAAAAAAwwH+ARq8dws0AwKKAAAAAElFTkSuQmCC" style="image-rendering:pixelated;image-rendering:crisp-edges" />
+          <g fill="none" stroke="#ffffff" stroke-width="2">
+            <rect x="96" y="40" width="64" height="64" />
+            <rect x="32" y="40" width="64" height="64" />
+            <rect x="160" y="104" width="64" height="64" />
+            <rect x="96" y="104" width="64" height="64" />
+            <rect x="32" y="104" width="64" height="64" />
+            <rect x="96" y="168" width="64" height="64" />
+            <rect x="32" y="168" width="64" height="64" />
+            <rect x="32" y="232" width="64" height="64" />
+          </g>
+          <g>
+            <text x="128" y="78" text-anchor="middle" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="13px" fill="#ffffff" font-weight="600" paint-order="stroke" stroke="#000000" stroke-width="3px">1</text>
+            <text x="64" y="78" text-anchor="middle" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="13px" fill="#ffffff" font-weight="600" paint-order="stroke" stroke="#000000" stroke-width="3px">2</text>
+            <text x="192" y="142" text-anchor="middle" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="13px" fill="#ffffff" font-weight="600" paint-order="stroke" stroke="#000000" stroke-width="3px">3</text>
+            <text x="128" y="142" text-anchor="middle" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="13px" fill="#ffffff" font-weight="600" paint-order="stroke" stroke="#000000" stroke-width="3px">4</text>
+            <text x="64" y="142" text-anchor="middle" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="13px" fill="#ffffff" font-weight="600" paint-order="stroke" stroke="#000000" stroke-width="3px">5</text>
+            <text x="128" y="206" text-anchor="middle" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="13px" fill="#ffffff" font-weight="600" paint-order="stroke" stroke="#000000" stroke-width="3px">6</text>
+            <text x="64" y="206" text-anchor="middle" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="13px" fill="#ffffff" font-weight="600" paint-order="stroke" stroke="#000000" stroke-width="3px">7</text>
+            <text x="64" y="270" text-anchor="middle" font-family="ui-monospace, 'Cascadia Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="13px" fill="#ffffff" font-weight="600" paint-order="stroke" stroke="#000000" stroke-width="3px">8</text>
+          </g>
+          <text x="300" y="30" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#e3e9ef" font-weight="600">For each sprite, the drawing loop needs</text>
+          <rect x="300" y="48" width="24" height="18" fill="#3987e5" fill-opacity="0.18" /><text x="334" y="61" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#e3e9ef">a tile number, from the frame stream</text>
+          <rect x="300" y="76" width="24" height="18" fill="#199e70" fill-opacity="0.2" /><text x="334" y="89" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#e3e9ef">a y offset and an x offset, from the placement table</text>
+          <rect x="300" y="104" width="24" height="18" fill="#d95926" fill-opacity="0.18" /><text x="334" y="117" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#e3e9ef">the attribute byte (palette, flip)</text>
+          <text x="300" y="160" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#e3e9ef" font-weight="600">Original: two cursors</text>
+          <text x="300" y="180" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#b4c0cc">frame index k (in $11) advances by 1 per sprite;</text>
+          <text x="300" y="196" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#b4c0cc">placement index 2k (in $0F) advances by 2.</text>
+          <text x="300" y="212" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#b4c0cc">Y can hold only one, so both live in memory.</text>
+          <text x="300" y="252" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#e3e9ef" font-weight="600">Now: one cursor</text>
+          <text x="300" y="272" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#b4c0cc">the placement table is split into a y block and</text>
+          <text x="300" y="288" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#b4c0cc">an x block, so sprite k's tile, y and x are all at</text>
+          <text x="300" y="304" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#b4c0cc">index k, each through its own pointer.</text>
+        </g></svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12 -12 784 294" role="img" aria-label="Two boxes with their radii. The pair misses if the vertical distance is at least the sum of the vertical radii, or the horizontal distance at least the sum of the horizontal radii. Per pair, the original takes 213 cycles to reject a pair far apart vertically, 270 for one far apart horizontally and 304 for a touching pair; now 54, 85 and 388." width="784" height="294">
+          <rect x="-12.0" y="-12.0" width="784.0" height="294.0" rx="8" fill="#fbfcfd" stroke="#cfd6de" /><g transform="translate(0,0)"><rect x="40" y="40" width="80" height="60" fill="#2a78d6" fill-opacity="0.12" stroke="#2a78d6" stroke-width="1.5" />
+          <circle cx="80" cy="70" r="3" fill="#2a78d6" />
+          <text x="80" y="32" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">enemy</text>
+          <rect x="150" y="150" width="50" height="80" fill="#eb6834" fill-opacity="0.12" stroke="#eb6834" stroke-width="1.5" />
+          <circle cx="175" cy="190" r="3" fill="#eb6834" />
+          <text x="175" y="246" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">shot or Samus</text>
+          <line x1="80" y1="70" x2="250" y2="70" stroke="#44515f" stroke-width="1.5" fill="none" stroke-dasharray="4 3" />
+          <line x1="175" y1="190" x2="250" y2="190" stroke="#44515f" stroke-width="1.5" fill="none" stroke-dasharray="4 3" />
+          <line x1="250" y1="70" x2="250" y2="190" stroke="#44515f" stroke-width="1.5" fill="none" />
+          <text x="258" y="134" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#142231" font-weight="600">dy</text>
+          <line x1="80" y1="70" x2="80" y2="140" stroke="#44515f" stroke-width="1.5" fill="none" stroke-dasharray="4 3" />
+          <line x1="80" y1="140" x2="175" y2="140" stroke="#44515f" stroke-width="1.5" fill="none" />
+          <text x="118" y="134" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#142231" font-weight="600">dx</text>
+          <line x1="128" y1="70" x2="128" y2="100" stroke="#b2441e" stroke-width="1.5" fill="none" />
+          <text x="132" y="90" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#b2441e">ry</text>
+          <text x="20" y="262" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">miss if |dy| ≥ ry₁ + ry₂  or  |dx| ≥ rx₁ + rx₂</text>
+
+          <text x="330" y="24" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#142231" font-weight="600">One pair, in cycles</text>
+          <rect x="330" y="34" width="10" height="10" fill="#2a78d6" /><text x="346" y="43" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">original</text>
+          <rect x="420" y="34" width="10" height="10" fill="#eb6834" /><text x="436" y="43" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">now</text>
+          <text x="330" y="82" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#142231">far apart vertically</text>
+          <rect x="470" y="66" width="106.5" height="12" fill="#2a78d6" />
+          <rect x="470" y="80" width="27" height="12" fill="#eb6834" />
+          <text x="582" y="76" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">213</text><text x="503" y="90" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">54</text>
+          <text x="330" y="132" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#142231">far apart horizontally</text>
+          <rect x="470" y="116" width="135" height="12" fill="#2a78d6" />
+          <rect x="470" y="130" width="42.5" height="12" fill="#eb6834" />
+          <text x="611" y="126" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">270</text><text x="518" y="140" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">85</text>
+          <text x="330" y="182" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#142231">touching</text>
+          <rect x="470" y="166" width="152" height="12" fill="#2a78d6" />
+          <rect x="470" y="180" width="194" height="12" fill="#eb6834" />
+          <text x="628" y="176" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">304</text><text x="670" y="190" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">388</text>
+          <line x1="470" y1="60" x2="470" y2="198" stroke="#cfd6de" stroke-width="1" />
+          <text x="330" y="226" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">Nearly every pair is far apart, so the rare touching pair,</text>
+          <text x="330" y="242" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">which now pays for the quick test and then the full one,</text>
+          <text x="330" y="258" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#44515f">costs far less than the misses save.</text>
+        </g></svg>

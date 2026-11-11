@@ -1,0 +1,4 @@
+# Built and test files: game ROMs must never be committed
+dist/
+*.nes
+__pycache__/

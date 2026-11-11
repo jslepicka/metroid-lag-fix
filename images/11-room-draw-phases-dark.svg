@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12 -12 754 234" role="img" aria-label="Stacked bars. Original: 51,801 cycles per room. Now: 22,262 cycles. Row setup grew while every other phase shrank." width="754" height="234">
+          <rect x="-12.0" y="-12.0" width="754.0" height="234.0" rx="8" fill="#141c25" stroke="#2a3643" /><rect x="16" y="9" width="10" height="10" rx="2" fill="#3987e5" /><text x="31" y="18" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#b4c0cc">Fill</text><rect x="71.6" y="9" width="10" height="10" rx="2" fill="#d95926" /><text x="86.6" y="18" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#b4c0cc">Metatiles</text><rect x="156.7" y="9" width="10" height="10" rx="2" fill="#199e70" /><text x="171.7" y="18" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#b4c0cc">Attributes</text><rect x="247.7" y="9" width="10" height="10" rx="2" fill="#c98500" /><text x="262.7" y="18" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#b4c0cc">Row setup</text><rect x="332.79999999999995" y="9" width="10" height="10" rx="2" fill="#d55181" /><text x="347.79999999999995" y="18" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#b4c0cc">Structures and setup</text><g transform="translate(0,28)"><line x1="203.14" y1="44" x2="203.14" y2="152" stroke="#222d38" stroke-width="1" />
+          <line x1="310.29" y1="44" x2="310.29" y2="152" stroke="#222d38" stroke-width="1" />
+          <line x1="417.43" y1="44" x2="417.43" y2="152" stroke="#222d38" stroke-width="1" />
+          <line x1="524.57" y1="44" x2="524.57" y2="152" stroke="#222d38" stroke-width="1" />
+          <line x1="631.71" y1="44" x2="631.71" y2="152" stroke="#222d38" stroke-width="1" />
+          <line x1="96" y1="152" x2="696" y2="152" stroke="#2a3643" stroke-width="1" />
+          <text x="96" y="170" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#8b99a7">0</text>
+          <text x="203.14" y="170" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#8b99a7">10K</text>
+          <text x="310.29" y="170" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#8b99a7">20K</text>
+          <text x="417.43" y="170" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#8b99a7">30K</text>
+          <text x="524.57" y="170" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#8b99a7">40K</text>
+          <text x="631.71" y="170" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#8b99a7">50K</text>
+          <text x="88" y="76" text-anchor="end" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#e3e9ef" font-weight="600">Original</text>
+          <text x="88" y="128" text-anchor="end" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#e3e9ef" font-weight="600">Now</text>
+          <g>
+            <rect x="96" y="60" width="127.43" height="24" fill="#3987e5" />
+            <rect x="225.43" y="60" width="271.18" height="24" fill="#d95926" />
+            <rect x="498.61" y="60" width="73.68" height="24" fill="#199e70" />
+            <rect x="574.29" y="60" width="39.32" height="24" fill="#c98500" />
+            <path d="M615.61 60 H647.01 A4 4 0 0 1 651.01 64 V80 A4 4 0 0 1 647.01 84 H615.61 Z" fill="#d55181" />
+          </g>
+          <text x="657" y="76" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#e3e9ef" font-weight="600">51.8K</text>
+          <g>
+            <rect x="96" y="112" width="51.69" height="24" fill="#3987e5" />
+            <rect x="149.69" y="112" width="78.38" height="24" fill="#d95926" />
+            <rect x="230.07" y="112" width="17.33" height="24" fill="#199e70" />
+            <rect x="249.40" y="112" width="58.30" height="24" fill="#c98500" />
+            <path d="M309.70 112 H330.52 A4 4 0 0 1 334.52 116 V132 A4 4 0 0 1 330.52 136 H309.70 Z" fill="#d55181" />
+          </g>
+          <text x="341" y="128" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12px" fill="#e3e9ef" font-weight="600">22.3K</text>
+          <line x1="415.08" y1="42" x2="415.08" y2="150" stroke="#f08850" stroke-width="1.5" fill="none" />
+          <text x="415.08" y="34" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11px" fill="#f08850" font-weight="600">One frame: 29,780.5 cycles</text>
+        </g></svg>
